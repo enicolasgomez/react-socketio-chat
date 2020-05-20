@@ -25,6 +25,7 @@ Client:
 * Different configuration parameters ( User name, Send on Enter, 24H hour time format )
 * Light / dark theme 
 * Internationalization
+* Emojis
 
 ## TODO
 
