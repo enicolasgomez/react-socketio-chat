@@ -1,4 +1,4 @@
-# TypeScript / React / NodeJS / SocketIO client/server chat sample application
+# TypeScript / React / NodeJS / SocketIO chat sample application
 
 ![React Chat Demo](demo/chat2.gif)
 
