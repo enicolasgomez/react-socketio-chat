@@ -59,6 +59,11 @@ export class Room extends React.Component<Props, State> {
       this.setState({ format24hTime: (ae.detail) });
     });
 
+    document.addEventListener("setLanguageChanged", e => { 
+      const ae = e as any;
+      this.setState({ language: (ae.detail) });
+    });
+
   }
 
   userJoined = (joiner: Shared.User) => {
