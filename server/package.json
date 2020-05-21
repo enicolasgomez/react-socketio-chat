@@ -5,15 +5,15 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sb-js/socketio-react-chat.git"
+    "url": "git+https://github.com/enicolasgomez/react-socketio-cha.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "enicolasgomez@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sb-js/socketio-react-chat/issues"
+    "url": "https://github.com/enicolasgomez/react-socketio-chat.git"
   },
-  "homepage": "https://github.com/sb-js/socketio-react-chat#readme",
+  "homepage": "https://github.com/enicolasgomez/react-socketio-chat#readme",
   "dependencies": {
     "lodash": "^4.17.10",
     "openid-client": "^2.1.0",
