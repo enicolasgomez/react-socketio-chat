@@ -1,7 +1,7 @@
-import { expect } from 'chai';
+//import { expect } from 'chai';
 import 'mocha';
-import { createRoom, allRooms, findRoomByName, getUsers, join, leaveAll, Room } from "../src/model/room"
-import { findUserByToken, findUserById, createUser, setNick } from "../src/model/user"
+import { createRoom, allRooms, findRoomByName, getUsers, join, leaveAll, Room } from "../model/room"
+import { findUserByToken, findUserById, createUser, setNick } from "../model/user"
 
 //as implementations are naive I'm just creating the structure, in a real project I would write the actual testing implementations
 
