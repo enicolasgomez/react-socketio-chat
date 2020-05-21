@@ -7,7 +7,6 @@
 Run NodeJS server first:
 
     $ cd server
-    $ cp config-sample.json config.json
     $ npm install
     $ npx tsc
     $ node dist/index.js
