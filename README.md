@@ -28,5 +28,5 @@ Client:
 
 ## TODO
 
-* Unread messages counter for each channel
+* Unread messages counter for each channel (Redux version)
 
