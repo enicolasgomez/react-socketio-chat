@@ -22,6 +22,7 @@ export interface NameChangeEvent {
   guest: boolean;
   oldNick: string;
   newNick: string;
+  date: number;
 }
 
 export interface MessageEvent {
@@ -30,7 +31,7 @@ export interface MessageEvent {
   guest: boolean;
   nick: string;
   text: string;
-  date: Date
+  date: number;
 }
 
 export interface MeEvent {
@@ -39,4 +40,5 @@ export interface MeEvent {
   guest: boolean;
   nick: string;
   text: string;
+  date: number;
 }
