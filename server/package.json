@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/enicolasgomez/react-socketio-chat#readme",
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "openid-client": "^2.1.0",
     "shortid": "^2.2.11",
     "socket.io": "^2.1.1"
