@@ -29,4 +29,5 @@ Client:
 ## TODO
 
 * Unread messages counter for each channel (Redux version)
+* Dark theme support on emojis panel
 
