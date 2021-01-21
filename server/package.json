@@ -18,7 +18,7 @@
     "lodash": "^4.17.10",
     "openid-client": "^2.1.0",
     "shortid": "^2.2.11",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
